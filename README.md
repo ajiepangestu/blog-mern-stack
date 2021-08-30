@@ -1,2 +1,2 @@
-# blog-post-mern-stack
-A Blog Post App with MERN Stack Implementation
+# blog-mern-stack
+A Blog App with MERN Stack Implementation

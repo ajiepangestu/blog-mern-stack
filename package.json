@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajiepangestu/blog-post-mern-stack.git"
+    "url": "git+https://github.com/ajiepangestu/blog-mern-stack.git"
   },
   "author": "Ajie Pangestu",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajiepangestu/blog-post-mern-stack/issues"
+    "url": "https://github.com/ajiepangestu/blog-mern-stack/issues"
   },
-  "homepage": "https://github.com/ajiepangestu/blog-post-mern-stack#readme",
+  "homepage": "https://github.com/ajiepangestu/blog-mern-stack#readme",
   "devDependencies": {
     "concurrently": "^6.2.1"
   }

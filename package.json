@@ -1,0 +1,25 @@
+{
+  "name": "blog-post-mern-stack",
+  "version": "1.0.0",
+  "description": "A Blog Post App with MERN Stack Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && yarn start",
+    "server": "cd server && yarn start",
+    "start": "concurrently \"yarn run server\" \"yarn run client\" --kill-others"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajiepangestu/blog-post-mern-stack.git"
+  },
+  "author": "Ajie Pangestu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajiepangestu/blog-post-mern-stack/issues"
+  },
+  "homepage": "https://github.com/ajiepangestu/blog-post-mern-stack#readme",
+  "devDependencies": {
+    "concurrently": "^6.2.1"
+  }
+}
